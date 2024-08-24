@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrueInvisibility.client.iml" filepath="$PROJECT_DIR$/.idea/modules/TrueInvisibility.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrueInvisibility.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TrueInvisibility.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrueInvisibility.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TrueInvisibility.test.iml" />
     </modules>
   </component>
