@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.alvindimas05.trueinvisibility.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "InvisibleArmorMixin",
+    "InvisibleElytraMixin",
+    "InvisibleHeadMixin",
+    "InvisibleHeldItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
